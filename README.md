@@ -14,7 +14,7 @@
  
 <br>
  
-### Redes sociais abaixo!
+### Redes abaixo!
  
 <div> 
   <a href = "mailto:zejonaz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
